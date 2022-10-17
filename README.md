@@ -3,6 +3,8 @@ Igbo Language". We trained an IgboBERT model from scratch to have a baseline mod
 
 
 Citation
+
+
 @article{chukwunekeigbobert,
   title={IgboBERT Models: Building and Training Transformer Models for the Igbo Language},
   author={Chukwuneke, Chiamaka and Ezeani, Ignatius and Rayson, Paul and El-Haj, Mahmoud}
